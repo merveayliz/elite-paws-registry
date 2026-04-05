@@ -16,6 +16,3 @@ A modern, responsive, and dark-themed pet portfolio website built with clean HTM
 ## 📸 Preview
 > "From 'Commander Meow' to 'Şakir', meet the elite squad members in a premium registry interface."
 
-## 🚀 How to Run
-1. Clone this repository.
-2. Open `index.html` in any modern browser.
